@@ -7,7 +7,7 @@
 موفق باشید
 
 Install Bot
-git clone https://github.com/tgfire/tgfire/Extra.git && cd Extra && chmod +x Extra.sh && ./Extra.sh install
+git clone https://github.com/tgfire/tgfire && cd Extra && chmod +x Extra.sh && ./Extra.sh install
 
 
 sudo kardan dar Bot
