@@ -2,7 +2,7 @@
 
 cd $HOME
 
-git clone https://github.com/tgfire/tgfire/Extra.git
+git clone https://github.com/tgfire/tgfire
 
 cd tgfire
 
