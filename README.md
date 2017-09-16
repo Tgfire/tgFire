@@ -5,8 +5,10 @@
 آموزش نصب:
 دوستان توجه کنید ستاره بدید قبل نصب به گیت
 موفق باشید
+
 Install Bot
 git clone https://github.com/tgfire/tgfire/Extra.git && cd Extra && chmod +x Extra.sh && ./Extra.sh install
+
 
 sudo kardan dar Bot
 bot/bot.lua line 4 id bot id sudo line 87
@@ -20,4 +22,5 @@ cd Extra && ./Extra.sh
 cd Extra
 
 screen ./Extra.sh
-مشکل داشتید به بوت پشتبانی پیام بدید
+
+مشکلی بود بیایید پیوی بات تیم  @tel_fireSupportBot
