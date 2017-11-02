@@ -21,6 +21,6 @@ cd tgFire
 screen ./Extra.sh
 
 
-مشکلی بود بیایید پیوی بات تیم  @tel_fireSupportBot
+مشکلی بود بیایید پیوی بات تیم  @telfireDevBot
 
 @tel_fire
